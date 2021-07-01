@@ -2,6 +2,7 @@
 # YUG MOVIES
 
 Yug Movies is a simple website for a local business.
+Website: [Yug Movies](http://yugmovies.savanpatel.tk/)
 
 
 [![Build Status](https://img.shields.io/travis/ColorlibHQ/AdminLTE/master.svg)](https://travis-ci.org/ColorlibHQ/AdminLTE)
@@ -23,8 +24,6 @@ composer require google/apiclient:^2.10
 ```
 for more information [Google APIs Client Library for PHP](https://github.com/googleapis/google-api-php-client)
 
-
-Website: [Yug Movies](http://yugmovies.savanpatel.tk/)
 
 CREDITS:
 
