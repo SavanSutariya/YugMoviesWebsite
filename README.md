@@ -1,9 +1,7 @@
 
 # YUG MOVIES
 
-Yug Movies is a simple website for a local business.
-Website: [Yug Movies](http://yugmovies.savanpatel.tk/)
-
+[Yug Movies](http://yugmovies.savanpatel.tk/) is a simple website for a local business.
 
 [![Build Status](https://img.shields.io/travis/ColorlibHQ/AdminLTE/master.svg)](https://travis-ci.org/ColorlibHQ/AdminLTE)
 [![Packagist](https://img.shields.io/packagist/v/almasaeed2010/adminlte.svg)](https://packagist.org/packages/almasaeed2010/adminlte)
